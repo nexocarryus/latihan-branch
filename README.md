@@ -1,4 +1,4 @@
 # latihan-branch
-
 **ini adalah latihan branch pertama saya**
-github itu asyik lo
+belajar github di dicoding itu seru
+
